@@ -1,0 +1,16 @@
+ul {
+    padding: 0px;
+    list-style: none;
+    /* width: ; */
+  }
+  li {
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 28px;
+    letter-spacing: 2px;
+  }
+  button {
+    width: inherit;
+    border: none;
+   
+  }
